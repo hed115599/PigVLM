@@ -84,5 +84,5 @@ We will give this part after the paper is accepted.
 
 If you have any questions, feedback, or suggestions, feel free to open an issue or reach out.
 
-- **Your Name** – hed115599@gmail.com  
+- **Edward Wong** – hed115599@gmail.com  
 - **Project Link** – [https://github.com/hed115599/AnimonVLM](https://github.com/hed115599/AnimonVLM)  
